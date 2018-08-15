@@ -1,0 +1,11 @@
+This act may be cited and shall be known as the Alabama Data Breach Notification Act of 2018. 
+For the purposes of this act, the following terms have the following meanings.
+BREACH OF SECURITY or BREACH means the unauthorized acquisition of data in electronic form containing sensitive personally identifying information.
+Acquisition occurring over a period of time committed by the same entity constitutes one breach. The term does not include any of the following.
+The term does not include good faith acquisition of sensitive personally identifying information by an employee or agent of a covered entity, unless the information is used for a purpose unrelated to the business or subject to further unauthorized use.
+The term does not include the release of a public record not otherwise subject to confidentiality or nondisclosure requirements.
+The term does not include any lawful investigative, protective, or intelligence activity of a law enforcement or intelligence agency of the state, or a political subdivision of the state.
+COVERED ENTITY means a person, sole proprietorship, partnership, government entity, corporation, nonprofit, trust, estate, cooperative association, or other business entity that acquires or uses sensitive personally identifying information.
+DATA IN ELECTRONIC FORM means any data stored electronically or digitally on any computer system or other database, including, but not limited to, recordable tapes and other mass storage devices. 
+GOVERNMENT ENTITY means any division, bureau, commission, regional agency, board, district, authority, agency, or other instrumentality of this state that acquires, maintains, stores, or uses data in electronic form containing sensitive personally identifying information.
+INDIVIDUAL means any Alabama resident whose sensitive personally identifying information was, or the covered entity reasonably believes to have been, accessed as a result of the breach.
